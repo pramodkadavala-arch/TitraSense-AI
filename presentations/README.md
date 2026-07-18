@@ -1,3 +1,8 @@
 # Presentations
 
-Presentation slides.
+This folder contains:
+
+- Hackathon PPT
+- Demo Presentation
+- Pitch Deck
+- Posters
