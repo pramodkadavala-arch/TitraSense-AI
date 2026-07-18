@@ -1,3 +1,11 @@
-# Mobile App
+# Mobile Application
 
-Flutter application files.
+The mobile application is developed using Flutter.
+
+Features:
+
+- Live Monitoring
+- Endpoint Prediction
+- Experiment History
+- Notifications
+- Device Connectivity
